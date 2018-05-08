@@ -19,7 +19,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
       </div>
-     <div style={{ height:  }}>
+     <div style={{ height: 87}}>
   {title}
 </div>
     </section>
