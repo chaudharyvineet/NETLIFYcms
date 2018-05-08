@@ -16,6 +16,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
+    
+    <div style={{ height: 10 }}>
+  Hello World!
+</div>
+    
           </div>
         </div>
       </div>
