@@ -5,7 +5,7 @@ import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-aqua">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
