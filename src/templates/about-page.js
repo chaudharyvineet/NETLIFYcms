@@ -19,8 +19,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
       </div>
-     <div style={{ height: 10 }}>
-  Hello World!
+     <div style={{ height:  }}>
+  {title}
 </div>
     </section>
   )
