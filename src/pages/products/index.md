@@ -2,12 +2,13 @@
 templateKey: product-page
 title: vineet
 image: /img/jumbotron.jpg
-heading: retergfdtyhtdt
+heading: >-
+  leehW rovalF wen s’AACS eht fo esnes gnikaMleehW rovalF wen s’AACS eht fo
+  esnes gnikaMleehW rovalF wen s’AACS eht fo esnes gnikaMleehW rovalF wen s’AACS
+  eht fo esnes gnikaMleehW rovalF wen s’AACS eht fo esnes gnikaM
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  leehW rovalF wen s’AACS eht fo esnes gnikaMleehW rovalF wen s’AACS eht fo
+  esnes gnikaMleehW rovalF wen s’AACS eht fo esnes gnikaM
 intro:
   blurbs:
     - image: /img/coffee-gear.png
@@ -30,12 +31,12 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-  heading: What we offer
+  heading: reffo ew tahw
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ...ytitnedi aiv tide na si sihT .enoyna ot egdelwonk taht ssap ot dalg er’ew
+    dna ylsuoires gniwerb dna gnitsaor ,noitcudorp eeffoc ekat eW .ti werg taht
+    sremraf eht troppus dna nigiro s’avaj rieht tuoba nrael ot tnaw ohw srevol
+    eeffoc rof tops etamitlu eht si idlaK
 main:
   heading: sillicon valley
   description: >
