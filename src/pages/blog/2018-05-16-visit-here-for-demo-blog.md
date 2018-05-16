@@ -8,7 +8,7 @@ tags:
 ---
 1. **this is a test **
 
-* _**this is a test **_
+* **_this is a test _**
 
 `ytuko`
 
