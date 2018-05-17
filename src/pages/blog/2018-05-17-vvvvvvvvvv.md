@@ -25,15 +25,28 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
 
-<button class="primary">[Here](http://www.google.com)</button>
+<button class="primary" on>[Here](http://www.google.com)</button>
 
 
 [Here](http://www.google.com)
-{{< cta-button "Sign up for free!" "http://www.google.com" >}}
+
+<a href="http://google.com" class="button">Go to Google</a>
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+<a href="http://google.com" class="btn btn-default">Go to Google</a>
+<input type="button" onclick="location.href='http://google.com';" value="Go to Google" />
 
 
-[button url="http://www.google.com"]
 
-{% include button.html url="http://www.google.com" %}
+<button onclick="location.href='http://www.google.com'" type="button">
+    Google</button>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+
+
