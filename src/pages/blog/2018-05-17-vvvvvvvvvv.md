@@ -25,23 +25,10 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
 
-//<button class="primary" on>[Here](http://www.google.com)</button>
-
-
-//[Here](http://www.google.com)
 
 <a href="vineetchaudhary.ml" class="button">Visit Here</a>
 
 
-#<a href="http://google.com" class="btn btn-default">Go to</a>
-
-
-//<input type="button" onclick="location.href='http://google.com';" value="visit google" />
-
-
-
-//<button onclick="location.href='http://www.google.com'" type="button">
-    //Goooooogle</button>
 
 
 
