@@ -30,23 +30,24 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 [Here](http://www.google.com)
 
-<a href="http://google.com" class="button">Go to Google</a>
+<a href="http://google.com" class="button">google india</a>
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
     text-decoration: none;
     color: initial;
 }
 
-<a href="http://google.com" class="btn btn-default">Go to Google</a>
-<input type="button" onclick="location.href='http://google.com';" value="Go to Google" />
+<a href="http://google.com" class="btn btn-default">Go to</a>
+
+
+<input type="button" onclick="location.href='http://google.com';" value="visit google" />
 
 
 
 <button onclick="location.href='http://www.google.com'" type="button">
-    Google</button>
+    Goooooogle</button>
 
 
 
