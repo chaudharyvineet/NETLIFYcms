@@ -160,13 +160,13 @@ Now that you’re aware of the reasons for rejection, you may want to be diligen
 
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Get a loan without a bank account ?**</a> **
 
-**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Get a credit card with low income ?**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Get a credit card with low income ?**</a>**
 
-**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**   Loan options for low income borrowers ?**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Loan options for low income borrowers ?**</a>**
 
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Best Checking Account of 2018**</a>**
 
-**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Best Credit cards of 2018**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Best Credit cards of 2018**</a>**
 
 <hr>
 **Written By**<span style="color:green">Ruchi Gupta</span>
