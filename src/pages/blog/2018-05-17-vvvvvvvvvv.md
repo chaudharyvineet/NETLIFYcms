@@ -25,6 +25,6 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
 
-<button class="success">click me<a href="vineetchaudhary.ml"></a></button>
+<button class="success"><a href="vineetchaudhary.ml">click me</a></button>
 
 
