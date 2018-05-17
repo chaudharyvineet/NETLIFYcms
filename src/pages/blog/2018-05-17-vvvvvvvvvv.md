@@ -23,7 +23,7 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 1. https://vineet-c.netlify.com/admin/#/collections/blog/new
 
-![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
+![https://vineet-c.netlify.com/admin/#/collections/blog/new]
 
 
 <a href="vineetchaudhary.ml" class="button">Visit Here</a>
