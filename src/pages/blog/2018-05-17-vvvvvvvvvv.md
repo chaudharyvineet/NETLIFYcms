@@ -25,7 +25,7 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button">[Here](http://www.google.com)</button>
 
 
 [Here](http://www.google.com)
