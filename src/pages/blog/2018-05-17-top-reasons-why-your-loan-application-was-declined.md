@@ -14,11 +14,11 @@ tags:
 
 **<hr>**
 
-* ** <a href="#" class="btn btn-default">Insufficient or Poor Credit History</a>**
-* ** <a href="#" class="btn btn-default">Poor Banking History or No Checking Account</a>**
-* ** <a href="#" class="btn btn-default">Unstable Employment History</a>**
-* **   <a href="#" class="btn btn-default">Excessive Debt or High debt-to-income (DTI) ratio</a>**
-* **  <a href="#" class="btn btn-default">Low-Income</a>**
+* **<a href="#" class="btn btn-default">Insufficient or Poor Credit History</a>**
+* **<a href="#" class="btn btn-default">Poor Banking History or No Checking Account</a>**
+* **<a href="#" class="btn btn-default">Unstable Employment History</a>**
+* **<a href="#" class="btn btn-default">Excessive Debt or High debt-to-income (DTI) ratio</a>**
+* **<a href="#" class="btn btn-default">Low-Income</a>**
 * **<a href="#" class="btn btn-default">Application errors</a>**
 
 **<hr>**
@@ -158,19 +158,18 @@ Now that you’re aware of the reasons for rejection, you may want to be diligen
 
 **What Next? Read about how you can >><hr>**
 
-** <a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Get a loan without a bank account ?**</a> **
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Get a loan without a bank account ?**</a> **
 
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Get a credit card with low income ?**</a>**
 
-** <a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**   Loan options for low income borrowers ?**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**   Loan options for low income borrowers ?**</a>**
 
-** <a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Best Checking Account of 2018**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Best Checking Account of 2018**</a>**
 
-** <a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Best Credit cards of 2018**</a>**
+**<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Best Credit cards of 2018**</a>**
 
 <hr>
-
-** Written By** <span style="color:green">Ruchi Gupta</span>
+**Written By**<span style="color:green">Ruchi Gupta</span>
 
 <span style="color:grey">12:49 , 28/3/18 </span>
 
