@@ -6,10 +6,10 @@ description: >-
   https://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/newhttps://vineet-c.netlify.com/admin/#/collections/blog/new
 tags:
   - buttogturtae7
-<a href="http://vineetchaudhary.ml" target="_blank" class="button">Visit Here</a>
-
 
 ---
+<a href="http://vineetchaudhary.ml" target="_blank" class="button">Visit Here</a>
+
 _**https://vineet-c.netlify.com/admin/#/collections/blog/new**_
 
 
@@ -30,7 +30,7 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new]
 
 
-<a href="http://vineetchaudhary.ml" target="_blank" class="button">Visit Here</a>
+<a href="http://vineetchaudhary.herokuapp.com" target="_blank" class="button">Visit Here</a>
 
 
 
