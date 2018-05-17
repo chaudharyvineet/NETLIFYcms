@@ -24,3 +24,7 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 1. https://vineet-c.netlify.com/admin/#/collections/blog/new
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
+
+<Link className="button is-small" to={post.fields.slug}>
+                    Keep Reading →
+</Link>
