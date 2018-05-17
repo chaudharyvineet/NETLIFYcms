@@ -26,7 +26,7 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new]
 
 
-<a href="vineetchaudhary.ml" class="button">Visit Here</a>
+<a href="http://vineetchaudhary.ml" target="_blank" class="button">Visit Here</a>
 
 
 
