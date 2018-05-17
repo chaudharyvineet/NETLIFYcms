@@ -27,4 +27,6 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
+Lorem ipsum dolor sit amet.
 
+[Click me](http://www.google.com){: .btn}
