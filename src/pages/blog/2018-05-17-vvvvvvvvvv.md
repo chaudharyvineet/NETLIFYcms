@@ -29,3 +29,4 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 
 [Here](http://www.google.com)
+{{< cta-button "Sign up for free!" "http://www.google.com" >}}
