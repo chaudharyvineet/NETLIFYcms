@@ -25,4 +25,4 @@ _**`https://vineet-c.netlify.com/admin/#/collections/blog/new`**_
 
 ![https://vineet-c.netlify.com/admin/#/collections/blog/new](/img/pexels-photo-52910.jpeg)
 
-button class="btn btn-lg btn-primary btn-block" type="submit"><a href="vineetchaudhary.ml">Click here</a></button>
+<button class="btn btn-lg btn-primary btn-block" type="submit"><a href="vineetchaudhary.ml">Click here</a></button>
