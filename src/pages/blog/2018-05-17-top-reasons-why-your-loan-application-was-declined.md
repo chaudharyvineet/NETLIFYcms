@@ -8,8 +8,6 @@ tags:
 ---
 ![ Image courtesy of Unsplash](/img/1.png)
 
-
-
 ## **Jump to section Quickly**
 
 **<hr>**
@@ -33,19 +31,11 @@ tags:
 
 Credit Card and loan providers always refer to your Credit Information Report before taking a decision on your loan application. If you have had problems repaying a debt in the past, like on a Credit Card or loan, for example, it will show up on your credit report and may result in your loan application being rejected. Remember, it is always advisable to check your Credit Score before applying for a loan or Credit Card.
 
-
-
 **Check Points On A Credit Report**
 
-*  **Bad Credit Score:** Your Credit Score is calculated and based on your credit behaviour. The points range from 300-900. Higher points mean a better score. A score above 750 is acceptable and makes you eligible for loans. However, do note that the final decision on granting a loan or a Credit Card lies with the issuer or issuing bank.
-
-
-
-*    **Financial delinquency:** Credit Card and loan providers not only look at the type of delinquency, but they also consider how long it’s been since the non-payment of a particular loan or outstanding Credit Card bill. A 90-day late payment on your EMI or Credit Card from six years ago won’t hurt as badly as one from six months ago. So, stay on top of your payments
-
-
-
-*    **Too many Inquiries:** Applying for too many Credit Cards and loans within a short period can lead to the denial of your Credit Card application.
+* **Bad Credit Score:** Your Credit Score is calculated and based on your credit behaviour. The points range from 300-900. Higher points mean a better score. A score above 750 is acceptable and makes you eligible for loans. However, do note that the final decision on granting a loan or a Credit Card lies with the issuer or issuing bank.
+* **Financial delinquency:** Credit Card and loan providers not only look at the type of delinquency, but they also consider how long it’s been since the non-payment of a particular loan or outstanding Credit Card bill. A 90-day late payment on your EMI or Credit Card from six years ago won’t hurt as badly as one from six months ago. So, stay on top of your payments
+* **Too many Inquiries:** Applying for too many Credit Cards and loans within a short period can lead to the denial of your Credit Card application.
 
 <hr>
 
@@ -59,14 +49,12 @@ Credit Card and loan providers always refer to your Credit Information Report be
 
 **<hr>**
 
-
-
-*    Always pay your dues on time.
-*    Do not max out your credit limit.
-*    Do not take too many unsecured loans without closing out old loans.
-*    Avoid too many hard inquiries.
-*    Monitor your co-signed, guaranteed and joint accounts every month
-*    Check your credit report for inaccuracies from time to time
+* Always pay your dues on time.
+* Do not max out your credit limit.
+* Do not take too many unsecured loans without closing out old loans.
+* Avoid too many hard inquiries.
+* Monitor your co-signed, guaranteed and joint accounts every month
+* Check your credit report for inaccuracies from time to time
 
 <br>
 
@@ -87,8 +75,6 @@ While lenders verify income documents for eligibility calculation, they also rev
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** How to open your first checking account?**</a>**
 
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**  How to leverage your checking account to get a loan?**</a>**
-
-
 
 <br><br>
 
@@ -115,10 +101,6 @@ A successful application also depends on whether you meet the minimum income req
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">** Loan options for low income borrowers ?**</a>**
 
    <br>
-
-   
-
-
 
 > **5. Excessive Debt or High debt-to-income (DTI) ratio**
 
@@ -154,8 +136,6 @@ Now that you’re aware of the reasons for rejection, you may want to be diligen
 
 <br>
 
-
-
 **What Next? Read about how you can >><hr>**
 
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Get a loan without a bank account ?**</a> **
@@ -169,7 +149,7 @@ Now that you’re aware of the reasons for rejection, you may want to be diligen
 **<a href="https://nakultanta.github.io/pathmoney/Applicationdecline.html#" class="btn btn-default">**Best Credit cards of 2018**</a>**
 
 <hr>
-**Written By**<span style="color:green">Ruchi Gupta</span>
+Written By <span style="color:green">Ruchi Gupta</span>
 
 <span style="color:grey">12:49 , 28/3/18 </span>
 
@@ -184,9 +164,5 @@ Now that you’re aware of the reasons for rejection, you may want to be diligen
 ```
 @ 2018 PathMoney, All Rights Reserved
 ```
-
-
-
-
 
 ##
