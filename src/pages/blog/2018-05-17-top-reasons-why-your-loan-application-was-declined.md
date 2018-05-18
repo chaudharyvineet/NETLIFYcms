@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Top Reasons why your Loan Application was DECLINED '
+title: 'Top Reasons why '
 date: '2018-05-17T12:00:31+05:30'
 description: Written by Ruchi Gupta
 tags:
