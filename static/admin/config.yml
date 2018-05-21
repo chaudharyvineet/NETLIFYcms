@@ -33,7 +33,7 @@ collections:
           
     - name: "credit"
     label: "Credit"
-    folder: "src/pages/credit"
+    folder: "src/pages/credit.md"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
