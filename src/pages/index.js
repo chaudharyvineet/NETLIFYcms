@@ -38,6 +38,9 @@ export default class IndexPage extends React.Component {
               </div>
             ))}
         </div>
+        <div>
+          <h1>pAth mOney &copy; 2018 <br> All rights Reserved.</h1>  
+          </div>
       </section>
     )
   }
@@ -71,11 +74,3 @@ export const pageQuery = graphql`
     }
   }
 `
-class Footer extends React.Component{
-render() {
-return (
-  <h1>pAth mOney</h1>  
-);
-}
-}
-
