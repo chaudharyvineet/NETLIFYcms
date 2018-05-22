@@ -15,7 +15,7 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
+        <Link className="navbar-item" to="https://nakultanta.github.io/pathmoney/creditcard.html">
           Credit Card
         </Link>
         <Link className="navbar-item" to="/products">
