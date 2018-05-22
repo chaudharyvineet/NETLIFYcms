@@ -72,5 +72,4 @@ export const pageQuery = graphql`
     }
   }
 `
-include(/footer.html);
 
