@@ -15,7 +15,7 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="https://nakultanta.github.io/pathmoney/creditcard.html">
+        <Link className="navbar-item" to="/about">
           Credit Card
         </Link>
         <Link className="navbar-item" to="/products">
@@ -24,13 +24,13 @@ const Navbar = () => (
         <Link className="navbar-item" to="/about">
           Personal Loans
         </Link>
-        <Link className="navbar-item" to="/about">
+        <Link className="navbar-item" to="/products">
           Banking
         </Link>
         <Link className="navbar-item" to="/about">
           Mortages
         </Link>
-        <Link className="navbar-item" to="/about">
+        <Link className="navbar-item" to="/products">
           Insurance
         </Link>
         <Link className="navbar-item" to="/about">
