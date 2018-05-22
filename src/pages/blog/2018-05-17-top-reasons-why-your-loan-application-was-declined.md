@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Top Reasons why '
+title: Top Reasons why you were declined a loan
 date: '2018-05-17T12:00:31+05:30'
-description: Written by Ruchi Gupta
+description: Written by Shanuj
 tags:
   - BLOG
 ---
