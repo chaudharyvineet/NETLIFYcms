@@ -11,6 +11,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet title="Path.Money" />
     <Navbar />
     <div>{children()}</div>
+    <Footer />
   </div>
 )
 
