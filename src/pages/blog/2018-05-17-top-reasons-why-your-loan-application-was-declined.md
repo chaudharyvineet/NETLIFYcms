@@ -153,13 +153,7 @@ Written By <span style="color:green">Ruchi Gupta</span>
 
 <span style="color:grey">12:49 , 28/3/18 </span>
 
-<br><hr>
-
-**Follow us**
-
-<a href="https://nakultanta.github.io/pathmoney/index.html"><img src="https://nakultanta.github.io/pathmoney/svg/pinterst.svg" width="60px">  </a>  <a href="https://nakultanta.github.io/pathmoney/index.html"><img src="https://nakultanta.github.io/pathmoney/svg/Twitter.svg" width="60px"></a>    <a href="https://nakultanta.github.io/pathmoney/index.html"><img src="https://nakultanta.github.io/pathmoney/svg/Mail.svg" width="60px"></a>        <a href="https://nakultanta.github.io/pathmoney/index.html"><img src="https://nakultanta.github.io/pathmoney/svg/G+.svg" width="60px"></a>
-
-<hr>
+<br>
 
 ```
 @ 2018 PathMoney, All Rights Reserved
