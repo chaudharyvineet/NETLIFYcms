@@ -38,12 +38,19 @@ export default class IndexPage extends React.Component {
               </div>
             ))}
         </div>
-        <div className ="footer">
-          <h1>pAth mOney &copy; 2018 <br> All rights Reserved.</h1>  
-          </div>
       </section>
     )
   }
+}
+
+export class Footer extends React.Component{
+render(){
+return (
+  <div className ="footer">
+   <h1>pAth mOney &copy; 2018 <br> All rights Reserved.</h1>  
+   </div>
+);
+}
 }
 
 IndexPage.propTypes = {
