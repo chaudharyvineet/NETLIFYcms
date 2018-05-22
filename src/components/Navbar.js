@@ -16,25 +16,10 @@ const Navbar = () => (
       </div>
       <div className="navbar-start">
         <Link className="navbar-item" to="/about">
-          Credit Card
+          About
         </Link>
         <Link className="navbar-item" to="/products">
-          Auto Loans
-        </Link>
-  <Link className="navbar-item" to="/credit">
-          Personal Loans
-        </Link>
-  <Link className="navbar-item" to="/credit">
-          Banking
-        </Link>
-  <Link className="navbar-item" to="/credit">
-          Mortages
-        </Link>
-  <Link className="navbar-item" to="/credit">
-          Insurance
-        </Link>
-  <Link className="navbar-item" to="/credit">
-         Money
+          vineet
         </Link>
       </div>
       <div className="navbar-end">
