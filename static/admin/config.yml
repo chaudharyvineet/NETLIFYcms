@@ -30,7 +30,19 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - file: "src/pages/about/index.md"
-  
+          
+    - name: "credit"
+    label: "Credit"
+    folder: "src/pages/credit.md"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+- {label: "Tags", name: "tags", widget: "list"}
 
         label: "Products Page"
         name: "products"
