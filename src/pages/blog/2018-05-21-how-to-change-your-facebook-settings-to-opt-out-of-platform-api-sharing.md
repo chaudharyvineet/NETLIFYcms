@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How To Change Your Facebook Settings To Opt Out of Platform API Sharing
+title: How To Change Your Google Settings To Opt Out of Platform API Sharing
 date: '2018-05-21T12:30:06+05:30'
 description: 'Courtesy: https://architectsecurity.org'
 tags:
