@@ -17,4 +17,8 @@ TemplateWrapper.propTypes = {
   children: PropTypes.func,
 }
 
+console.log(<h1>vineet</h1>);
+            <footer>yoo</footer>
+
 export default TemplateWrapper
+
